@@ -6,7 +6,7 @@
   "scripts": {
   "start": "node index.js"
 },
-  "author": "Daniel Orlandi",
+  "author": "Daniel",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
